@@ -33,3 +33,8 @@
 The app automatically detects simulator usage and displays a friendly message.
 
 ***
+
+## Screenshots
+
+![Screenshot](https://github.com/the-hsr/FoundationChat/blob/main/assets/screenshot1.png)
+![Screenshot](https://github.com/the-hsr/FoundationChat/blob/main/assets/screenshot2.png)
